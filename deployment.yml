@@ -44,10 +44,10 @@ spec:
         name: teagile-zuul-service
         imagePullPolicy: Always
         env:
-          - name: SERVER_PORT
-            value: 8080
-          - name: ZUUL_ROUTES_HANDLEMOVIES-SERVICE_URL
-            value: teagile-core-service.apps.12b5129e45db47179d12.westeurope.aksapp.io
+        - name: SERVER_PORT
+          value: 8080
+        - name: ZUUL_ROUTES_HANDLEMOVIES-SERVICE_URL
+          value: teagile-core-service.apps.12b5129e45db47179d12.westeurope.aksapp.io
 
 ---
 apiVersion: extensions/v1beta1
