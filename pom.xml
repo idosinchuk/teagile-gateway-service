@@ -9,11 +9,11 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.idosinchuk.architecturechallenge.gateway</groupId>
-	<artifactId>ZuulGatewayServer-ArchitectureChallenge</artifactId>
+	<groupId>com.soprasteria.hackaton.teagile.zuul.service</groupId>
+	<artifactId>teagile-zuul-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ZuulGatewayServer-ArchitectureChallenge</name>
-	<description>Zuul Gateway for Architecture Challenge project.</description>
+	<name>teagile-zuul-service</name>
+	<description>TEAgile Zuul Service for SopraSteria Hackaton</description>
 
 	<!-- Basic properties -->
     <properties>

@@ -1,4 +1,4 @@
-package com.idosinchuk.architecturechallenge.gateway;
+package com.soprasteria.hackaton.teagile.zuul.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

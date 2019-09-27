@@ -1,4 +1,4 @@
-package com.idosinchuk.architecturechallenge.gateway;
+package com.soprasteria.hackaton.teagile.zuul.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
