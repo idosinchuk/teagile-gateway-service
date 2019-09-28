@@ -40,7 +40,7 @@ spec:
       - name: docker-registry-innersource
       containers:
       #Cambiame:
-      - image: registry-innersource.soprasteria.com/smartup/sopra-profile/teagile-zuul-service:develop
+      - image: registry-innersource.soprasteria.com/smartup/hackaton-asperger/teagile/teagile-zuul-service:master
         name: teagile-zuul-service
         imagePullPolicy: Always
         env:
