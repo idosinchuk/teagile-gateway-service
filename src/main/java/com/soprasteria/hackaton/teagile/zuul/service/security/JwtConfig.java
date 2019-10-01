@@ -27,7 +27,7 @@ public class JwtConfig {
 	@Value("${security.jwt.header}")
 	private String header;
 
-	@Value("${security.jwt.prefix")
+	@Value("${security.jwt.prefix}")
 	private String prefix;
 
 	@Value("${security.jwt.expiration}")
