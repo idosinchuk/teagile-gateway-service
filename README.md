@@ -1,5 +1,5 @@
-# teagile-zuul-service
-TEAgile Zuul Service for SopraSteria Hackaton
+# teagile-gateway-service
+Gateway Service for TEAgile project
 
 In the gateway, we need to do two things: 
 

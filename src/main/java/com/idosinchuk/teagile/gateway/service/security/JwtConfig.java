@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.gateway.service.security;
+package com.idosinchuk.teagile.gateway.service.security;
 
 import org.springframework.beans.factory.annotation.Value;
 

@@ -9,11 +9,11 @@
 		<version>2.0.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.soprasteria.hackaton.teagile.gateway.service</groupId>
+	<groupId>com.idosinchuk.teagile.gateway.service</groupId>
 	<artifactId>teagile-gateway-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>teagile-gateway-service</name>
-	<description>TEAgile Gateway Service for SopraSteria Hackaton</description>
+	<description>Gateway Service for TEAgile project</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

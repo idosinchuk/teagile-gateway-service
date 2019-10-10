@@ -1,4 +1,4 @@
-package com.soprasteria.hackaton.teagile.gateway.service;
+package com.idosinchuk.teagile.gateway.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
